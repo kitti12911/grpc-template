@@ -1,0 +1,22 @@
+# Age password file
+*.key
+
+# Helm decrypted file
+*.dec
+
+# certificate
+*.crt
+
+# test coverage
+coverage.out
+
+# config
+config.*
+
+# generated protobuf
+gen/
+
+.DS_Store
+
+# air
+tmp/
