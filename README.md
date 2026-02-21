@@ -71,3 +71,12 @@ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.6.1
 ```bash
 go install github.com/air-verse/air@v1.64.5
 ```
+
+## features
+
+- example template for grpc server
+- tracing with opentelemetry
+- logging with slog
+- database migration and connection
+- validation with go-playground/validator
+- graceful shutdown
