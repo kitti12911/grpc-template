@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.3.3
-	github.com/kitti12911/lib-util v1.0.0
+	github.com/kitti12911/lib-util v1.1.1
 	google.golang.org/grpc v1.79.1
 	google.golang.org/protobuf v1.36.11
 )
